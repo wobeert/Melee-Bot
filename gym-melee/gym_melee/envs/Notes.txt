@@ -1,0 +1,21 @@
+MeleeEnv should...
+    - ?
+    - ?
+    - ?
+
+Controller should
+    - Send the signals to press buttons and move stick
+    - Update controller state.
+    - Return action space.
+
+Game should
+    - Send signals
+    - Return frame
+    - Update gamestate?
+    -
+
+GameState should
+    - Contain frame (pixels)
+    - State of each player
+    -
+
